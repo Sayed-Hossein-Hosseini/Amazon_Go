@@ -1,0 +1,504 @@
+Date: Sun, 29 Oct 2023 07:51:31 +0000 (UTC)
+Message-ID: <1034000193.5.1698565891611@58e64fa27c6c>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_4_1176686180.1698565891610"
+
+------=_Part_4_1176686180.1698565891610
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Brain Storming</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Brain Storming</h1>
+    <div class=3D"Section1">
+        <div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"88=
+f66e2b-3de8-40f7-8f05-42ef23cdcece" class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Facilitator</strong></p></th>
+<th class=3D"confluenceTh"><p>Dr. Mohammad Reza Sharbaf</p><p>Mr. Reza Pour=
+ Mohammadi</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Participants</strong></p></td>
+<td class=3D"confluenceTd"><p>Mr. Sayyed Hossein Hosseini</p><p>Miss. Hanie=
+h Shams</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Brainstorm date</strong></p></td>
+<td class=3D"confluenceTd"><p><time datetime=3D"2023-10-22" class=3D"date-p=
+ast">22 Oct 2023</time></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Video conference link</strong></p></t=
+d>
+<td class=3D"confluenceTd"><p><a href=3D"https://meet.google.com/" data-car=
+d-appearance=3D"inline" class=3D"external-link" rel=3D"nofollow">https://me=
+et.google.com/</a> </p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>On this page</strong></p></td>
+<td class=3D"confluenceTd"><style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1698565891596 {padding: 0px;}
+div.rbtoc1698565891596 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1698565891596 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1698565891596">=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#BrainStorming-Brainstormplanning">=E2=8F=B3 Brainstorm plan=
+ning</a></li>=20
+<li><a href=3D"#BrainStorming-Brainstormpre-work">=F0=9F=8C=B1 Brainstorm p=
+re-work</a></li>=20
+<li><a href=3D"#BrainStorming-Brainstormagenda">=E2=8F=B2 Brainstorm agenda=
+</a></li>=20
+<li><a href=3D"#BrainStorming-Brainstormoutcomes">=F0=9F=8E=AF Brainstorm o=
+utcomes</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#BrainStorming-Summaryofresults">Summary of results</a></li>=
+=20
+<li><a href=3D"#BrainStorming-Decisions">Decisions</a></li>=20
+</ul> </li>=20
+</ul>=20
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<h2 id=3D"BrainStorming-Brainstormplanning"><img class=3D"emoticon emoticon=
+-blue-star" data-emoji-id=3D"23f3" data-emoji-shortname=3D":hourglass_flowi=
+ng_sand:" data-emoji-fallback=3D"=E2=8F=B3" src=3D"a89c9aea822e00017aff2cd9=
+17120543" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=
+=3D"(blue star)">&nbsp;Brainstorm planning</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"7a=
+41a2d2-ec4a-49cc-9684-80e716b569c2" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 183.0px;">
+<col style=3D"width: 497.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th data-highlight-colour=3D"#fffae6" class=3D"confluenceTh"><p><strong>Goa=
+ls of the brainstorm</strong></p></th>
+<td class=3D"confluenceTd"><p>Finding the best way to facilitate the proces=
+s of buying and selling and placing orders and quickly receiving inventory =
+from the warehouse</p></td>
+</tr>
+<tr>
+<th data-highlight-colour=3D"#fffae6" class=3D"confluenceTh"><p><strong><sp=
+an class=3D"inline-comment-marker" data-ref=3D"eae716e5-8940-4432-8b07-f68f=
+c7fcfa9e">Brainstorming method</span></strong></p></th>
+<td class=3D"confluenceTd">
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"1966081">
+<li class=3D"checked" data-inline-task-id=3D"1"><span class=3D"placeholder-=
+inline-tasks"><strong>Creative matrix</strong>- quickly generate ideas to a=
+ddress a wide range of people and situations</span></li>
+<li data-inline-task-id=3D"2"><span class=3D"placeholder-inline-tasks"><str=
+ong>Silent circuit</strong>- run a brainstorm that is inclusive of differen=
+t learning styles and personality types</span></li>
+<li class=3D"checked" data-inline-task-id=3D"3"><span class=3D"placeholder-=
+inline-tasks"><strong>Round robin</strong>- get a fresh perspective on an o=
+ld problem</span></li>
+<li class=3D"checked" data-inline-task-id=3D"4"><span class=3D"placeholder-=
+inline-tasks"><strong>Idea prioritization</strong>- visualize and align on =
+which ideas you should pursue first</span></li>
+</ul></td>
+</tr>
+<tr>
+<th data-highlight-colour=3D"#fffae6" class=3D"confluenceTh"><p><strong>Par=
+ticipant instructions</strong></p></th>
+<td class=3D"confluenceTd">
+<ol start=3D"1">
+<li><p>Not having a negative attitude towards ideas</p></li>
+<li><p>Examining the results in the executive team</p></li>
+<li><p>Brainstorming for optimal management is done in groups and individua=
+lly</p></li>
+<li><p>Any idea generated belongs to the group, not the individual who thou=
+ght of it</p></li>
+<li><p>The time of brainstorming sessions varies between 1 and 1.5 hours</p=
+></li>
+<li><p>After the end of each session, the refining process is carried out b=
+ased on predetermined criteria and a list of results is obtained.</p></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<h2 id=3D"BrainStorming-Brainstormpre-work"><img class=3D"emoticon emoticon=
+-blue-star" data-emoji-id=3D"1f331" data-emoji-shortname=3D":seedling:" dat=
+a-emoji-fallback=3D"=F0=9F=8C=B1" src=3D"85093fa730f4df2479f22263274f88c6" =
+width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=3D"(blue st=
+ar)">&nbsp;Brainstorm pre-work</h2>
+<ul class=3D"inline-task-list" data-inline-tasks-content-id=3D"1966081">
+<li class=3D"checked" data-inline-task-id=3D"6"><span class=3D"placeholder-=
+inline-tasks">Examining the advantages and disadvantages of the current sys=
+tem</span></li>
+<li data-inline-task-id=3D"7"><span class=3D"placeholder-inline-tasks">Go t=
+o Amazon</span></li>
+<li class=3D"checked" data-inline-task-id=3D"8"><span class=3D"placeholder-=
+inline-tasks">Checking customer satisfaction</span></li>
+<li class=3D"checked" data-inline-task-id=3D"9"><span class=3D"placeholder-=
+inline-tasks">Getting new ideas in the speech of Dr. Mohammad Reza Shearbaf=
+</span></li>
+</ul>
+<p></p>
+<h2 id=3D"BrainStorming-Brainstormagenda"><img class=3D"emoticon emoticon-b=
+lue-star" data-emoji-id=3D"23f2" data-emoji-shortname=3D":timer:" data-emoj=
+i-fallback=3D"=E2=8F=B2" src=3D"e2248b61333ede5163a3a371319c10e9" width=3D"=
+16" height=3D"16" data-emoticon-name=3D"blue-star" alt=3D"(blue star)">&nbs=
+p;Brainstorm agenda</h2>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"4e=
+050f23-7592-45ba-879d-1e09fe3ad558" class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Item</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Time</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Review goals and agends</p></td>
+<td class=3D"confluenceTd"><p>15 minutes</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Providing different solutions</p></td>
+<td class=3D"confluenceTd"><p>1 houre</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Choosing the right solutions</p></td>
+<td class=3D"confluenceTd"><p>10 minutes</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Examining the advantages and disadvantages of=
+ work methods</p></td>
+<td class=3D"confluenceTd"><p>2 hours for each</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<h2 id=3D"BrainStorming-Brainstormoutcomes"><img class=3D"emoticon emoticon=
+-blue-star" data-emoji-id=3D"1f3af" data-emoji-shortname=3D":dart:" data-em=
+oji-fallback=3D"=F0=9F=8E=AF" src=3D"fa4dca306886442be2ffd0287335978a" widt=
+h=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=3D"(blue star)"=
+>&nbsp;Brainstorm outcomes</h2>
+<hr>
+<p>Development ways to implement this system include full coding and the us=
+e of low-code platforms, each of which has its own advantages and disadvant=
+ages.</p>
+<hr>
+<h3 id=3D"BrainStorming-Summaryofresults">Summary of results</h3>
+<p>Among the proposed ways, it has cost-effective low-code platforms and al=
+so faster development than other ways.</p>
+<p></p>
+<h3 id=3D"BrainStorming-Decisions">Decisions</h3>
+<ul class=3D"decision-list">
+<li>For this project, the project management team suggests that the desired=
+ system be implemented using low-code platforms</li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_4_1176686180.1698565891610
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/fa4dca306886442be2ffd0287335978a
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAwFBMVEVHcEzM1t3M1t0AAADM1t3M
+1t3M1t3M1t3M1t3M1t3M1t0AAADM1t3M1t1NOjUAAADBaU8AAAAAAADBaU9ZMCSOVEOUnKEAAAAA
+AADM1t3dLkRfnMq7zNn7nTWlTXB1p85RlMf/rDO/P1xSe7HnUj+txdg7iMOWudNFgrvplD1kcqPB
+aU/yfTl4ZpPTNksNExcWM0lFW2y1RWSWVXzwdTomKCmEr9CEio80d6ugqK3QcEnYgkVIJx55QjHh
+PkLXVEaQXWKtAAAAGHRSTlMAUIC9j9/GIJ/vYHlAryhQteoQYM/vr5/xm4VTAAACyklEQVR4Xq2Y
+h5ajMAxFQyAEUmdmm+ktvWd62fL/f7VzsjEYCTmY7PuAe/SeJbeWRN2eYXacszqm0eu2GkizOg5S
+x9LUKF3DdgjZRv26BkNHquGgXjWWc1FWjarawBRhsH2pHNOpKVNalGY7tWVrElsA4M8jb3aWF819
+gCLtWWVKFM+A4qjMsmpwprwUIG96kWTRGBplyfN5nkn1LMtJE8IB2WDFgj8N9I9d2IIAOcku91PR
+h/NZLc2LzsQBYU62DVP3pDTcZgSpDYxhX6vQLSlciaRphTmrirO6d5HuRdQU9cDA4SrWa/HgVuph
+USTucPH9aYj7Z5G6hNIF7qfhOSFsLNu5pHYZNvcvJYODvNwX4ABS7s7jIOMEskFByBd2B0uyT8OB
+ChJznmyC5FPBZiImjkrShLX383UXMEGSKxBQeRf4QgfwczDioKJ/HpOSHot+4qCIn5zCmsWooE0C
+tEElxcW69aCzENeDawqht17LANOa5fkkFcpzysDsGi0TRLTloKAKFHDQFoRk5ll73BkqaCkiJ8Cb
+l6fN0+KmU5j0+3q9xHmnPCSeNgJBZ8v1p5bYW21QIoBEUmNQ8lEm/T6DFmDcaBBBUreGSA1BASYp
+hA2WH5Po5Zc2JCbRDSkdEUyiR0Q6tJj0hxxa+TaCSTtyG5FvbJj0k3HtD0dhY1PZat85qWAdedZq
+m/8vRGL7N775qxxHrILETkVpagckqyQ9+Y6teGQzimQoXiIYRRopXmsYRdIVL1qMJPXB1c+XX/0Y
+SbpVu4wymjRWuh4zmjRWurAzmjRWekLsSZJe9aiZxhTowAiSfqf2zHpliPRV1/X+SPnhd8CkL42e
+oq8MkW6aPY6PJdI3DlJ/rvtPpcG4Wa9HDT8Q3vZgVht/abxAkPonCybp1337vOTu+ld+RH2/Pe8d
+o2u/xu5+8EG9+rNu1O+Dwfhv34d/AQRp7/tgUvZrAAAAAElFTkSuQmCC
+------=_Part_4_1176686180.1698565891610
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/e2248b61333ede5163a3a371319c10e9
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAt1BMVEVHcEyquMKquMKquMKquMKq
+uMKquMKquMKquMKquMKquMKquMKquMKquML///9wfodqeYPGy8+Ul5mdq7WMm6WAjpgpLzOmtL5m
+dX/Z3d/dLkSfqa/i5eeZp7GVo615ho/19vfs7u/y8vKzur+MmJ/qfIr98vPul6LysbmvsbOIl6HP
+1Nd5fYDKy8xvfYeEkpyquMKHioxzgox3hpCDj5fmYnPjVWf3y9D52NzfO1DhSFv75ejwpK1ouLJH
+AAAADnRSTlMAj4Df72C/zxBQIK8wQJ7SHokAAALzSURBVHhe7ZjXduMwDERjuUlZr2px793pdev/
+f9cGBClYZlgive482/dghgCLrjRyPafTfeTqdhzPvaqgXqNgkLqN3hcxbUGRWW17iuu0HjVqOZYW
+200BSNLsZcD1kqWJQDVtqrrucMosCwcXCrMZR3WuTRwPXfXT+8Gnuk/76M/Tcxro6RQOlApP6K+h
+S/kbw0ypms06GjJF6w1VNWWkb66Sg2v+wCHB+MYv6WYccNQDdoKr4/SfETOPBCDO81iwojmSnvsa
+EvOVYDoBYFCr/ENUVoRVhQlzp8pZcMYLXwXyF2NOUiTuEYeVQypAVBSRPKkPW5APcia+HuRPkAQ5
+tS47k/Uzy/l1SQwKu6zlK0uc9fjFfBXrHizjPH/yNXr6AC+DogtKc+fCnE7RF7Nyq+bcglXuDjqz
+ed4DDqBZP0eYSX5UcY45ZhaxHgcjzhkIkj6xdcfSS6lIiaF11gUnyLuUEK5YsBDF36lAd8L4IhAr
+RynBbKRoDMuPiSOTYrSN5lKYFMHpiYTm/pc0Fyn1zoZjhgXZikqasUEhZxkkxAE/dpYkSCkjby44
+C9mSgXbvo9H2pxVoDHGDN7cY1wSc4T72dwR6O1iAbsBbUoyuI9YMDRxGqN97s0Oxbg7OK49og6Dd
+GydZONzwkDpF1nAOrn0R9hY5ZodrODmLtCGti8X/s/81IoeGBoC0S6BhycDh3cLhUAGKcVxlh9tP
+RzcmkGijPgOtcqbPHF7Y47+UKkLQhECSQ18JMls7d7jXWpNBRpnDNsy+/fJTQ9qLGpJANCL2ohEh
+EA2tvWhoCUTbiCTLbYRAtLGR7Dc2AtFWS7LfaglUc/MnUN3jiEA1DkgJVPXIlkBVLxESqOK1RgJV
+vGjJoKpXPxlU9TIqg1TX45X6eqwAKS7sK/WFXQFSPCF85RNCBSJSuSjVo0YPsn9m6UH2Dz8jyP4p
+agaZH8dWIPNz3RZk/IBgD9J+0jCDzKoN+g/q1uc0Geh7TQp9RvCaNesBzj97uehy0K6+iQAAAABJ
+RU5ErkJggg==
+------=_Part_4_1176686180.1698565891610
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/a89c9aea822e00017aff2cd917120543
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAXVBMVEVHcEz/6Lb/6Lb/6Lb/6LY7
+iMM7iMP/6Lb/6Lb/6Lb/6Lb/6Lb/6Lb/6Lb/6Lb/5K7/w2T/2ZX/sDv/v1z/tEM7iMP/u1T/zn3/
+t0z/0oX/xmz/ynX/1Y3/rDP/4aY+pSzXAAAADnRSTlMAcIBAMFDf788QIK/fvznR7JEAAAHBSURB
+VHhe7dhZcoMwDAZgYxKwWcSWdWnvf8zK00mdoEYWYvKW/wDfRJKFCeYp22IvTrE1L7PdL8prqVgG
+FS+h/cK8C9KX9q5m68fPBjBffEbAmFQahA48dEDHJaFWBrUi6MJDF4TqJGQROvLQESGbhDKEBh4a
+EMqSUI5Qx0MdQnkS8oDZcc4OMN6I5t9zUI9OY9KpEbpx0C0OLdntbkyc60wAVYDp+cqgMoI49ieN
+HVkQpjbmTB6FlWF8OSuOFFZ6I4oNUHf6zzl1AbJGFu8eJeo4I82mjBJ1yo1ZKk3PzkQckUQ63kN0
+NBJ1VNJfn046J85ufDjQ4LwxWun8C52jo5V2wdlFR5Mq9OkaoCs6ZWXUsfebYIiLoUr+COUrIQjQ
+90rI3qG48+pmR0jfbO8gQiuPUYTWHewI6SVcWgLplz9CWilHh0LaBySFFI9sAmkk74CDwMkXg4Pk
+y+JLFpJf2RmwkPwlwrGQvEsVzHII7/qzVMLKKKSorZZAtQBqJFCTdjzMcwl/Y+bxSSgnEF5sVwLl
+y3sdLu0zLO+2JdDwe60t3ZIWSHBDSGoNNE0UauXT5+OSEAjDEJ/vR5/vR+rx/wBq/cBI2rwXpAAA
+AABJRU5ErkJggg==
+------=_Part_4_1176686180.1698565891610
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/85093fa730f4df2479f22263274f88c6
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAM1BMVEVHcEx3slV3slV3slV3slV3
+slV3slV3slV3slV3slV3slV3slV3slV3slV3slV3slV3slXeF2vCAAAAEXRSTlMAQGCAv58wEN//
+71Agr3DPjxgMFrEAAAFBSURBVHgB7dXXgoMgEIXhQ1E4VN//Zbc3sxPDRC797naT/DYYMZmxzvl3
+i7MrnhPsErmTFgO9nCjw+tMqlSILtUaRgZqlJGJWyUJvoaBCL3QKYobaSpEP0HIUJQMtz0nrqaRZ
+pUxOWpmWshRmleqpSVArf2RoFf9nBbVT284siWS3+7Fgsbdat/h3zmWDxyq/9N1pb5E7fcs4FhK/
+lN//LRTEMrhx3PH2pgtjp/R7bWInreODKuxOUd2BudknkYKMAfubVCjYVNOl/p7gjRgwYuMnf3dC
+ZOXkvHerPcaY31DwFBR1qHQKnPr10hIFHcN4pAcM03f0IR9wIhQTP6UGlX9XUz5naAs4E6oBzzp4
+2jr6pyQrwiv39BmtmBNymBPymBQqk0IOk0JhVghX6ApdoSt0ha6QWuKHhLNK829awQOvu7AtoMhJ
+WZYAAAAASUVORK5CYII=
+------=_Part_4_1176686180.1698565891610--

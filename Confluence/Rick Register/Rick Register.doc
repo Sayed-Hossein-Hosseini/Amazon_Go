@@ -1,0 +1,456 @@
+Date: Sun, 3 Dec 2023 22:31:07 +0000 (UTC)
+Message-ID: <118665921.29.1701642667205@d4445b870d0f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_28_318453492.1701642667205"
+
+------=_Part_28_318453492.1701642667205
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Rick Register</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Rick Register</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"RickRegister-Background"><img class=3D"emoticon emoticon-=
+blue-star" data-emoji-id=3D"1f4cb" data-emoji-shortname=3D":clipboard:" dat=
+a-emoji-fallback=3D"=F0=9F=93=8B" src=3D"39c8e02e2dc28d43c55c89dadffe568f" =
+width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=3D"(blue st=
+ar)">&nbsp;Background</h2>
+<p>This project is one of the projects that has a high importance in the so=
+ciety and it is supposed to be used by all ordinary people and this system =
+will provide ease for its customers. As a result, this project will have ma=
+ny competitors and here is the risk analysis. We pay to be able to prevent =
+the possibility of some incidents if necessary.</p>
+<p></p>
+<h2 id=3D"RickRegister-Risksmanagement"><img class=3D"emoticon emoticon-blu=
+e-star" data-emoji-id=3D"1f939-200d-2642-fe0f" data-emoji-shortname=3D":man=
+_juggling:" data-emoji-fallback=3D"=F0=9F=A4=B9=E2=80=8D=E2=99=82=EF=B8=8F"=
+ src=3D"bae0f9ac12a8fbbb68da32980c532b3b" width=3D"16" height=3D"16" data-e=
+moticon-name=3D"blue-star" alt=3D"(blue star)">&nbsp;Risks management</h2>
+<p>Identify and prioritize risks based on their probability and severity. T=
+hen define what further actions you need to take to control the risks, and =
+who needs to carry out these actions.</p>
+<hr>
+<h3 id=3D"RickRegister-Riskrating">Risk rating</h3>
+<p>Because this project is extensive, it has various risks, including the f=
+ollowing :</p>
+<ul>
+<li><p>Risk in data analysis</p></li>
+<li><p>Risk in receiving data</p></li>
+<li><p>Risk in workforce skills</p></li>
+<li><p>Risk in proper infrastructure</p></li>
+<li><p>=E2=80=A6=E2=80=A6=E2=80=A6..</p></li>
+</ul>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"76=
+356b4b-bbea-44c3-8ec7-b041f9e1fbdd" class=3D"confluenceTable">
+<tbody>
+<tr>
+<td data-highlight-colour=3D"#e3fcef" class=3D"confluenceTd"><p><strong>LOW=
+</strong></p></td>
+<td data-highlight-colour=3D"#fffae6" class=3D"confluenceTd"><p><strong>MED=
+IUM</strong></p></td>
+<td data-highlight-colour=3D"#fff0b3" class=3D"confluenceTd"><p><strong>HIG=
+H</strong></p></td>
+<td data-highlight-colour=3D"#ffbdad" class=3D"confluenceTd"><p><strong>EXT=
+REME</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Not having very complete features in the first release</p></li>
+<li><p>Not having a user-friendly appearance</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Additional capital expenditure may be required in addition to that a=
+pproved</p></li>
+<li><p>Slow system performance</p></li>
+<li><p>Not using resources properly</p></li>
+<li><p>Variety of products and list of items</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Technology solution is unable to deliver required results</p></li>
+<li><p>A number of influential members of the project team leave</p></li>
+<li><p>Response time is not acceptable for users/customers</p></li>
+<li><p>The functional manager diverts resources from the project</p></li>
+</ul></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Inability to recruit skilled resource</p></li>
+<li><p>Not having proper infrastructure to store information</p></li>
+<li><p>Information not updated</p></li>
+<li><p>Difficult and complex use of the program by users</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class=3D"table-wrap">
+<table data-table-width=3D"760" data-layout=3D"default" data-local-id=3D"cf=
+e473d2-9230-4406-bdda-f3a4ebc036b8" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 167.0px;">
+<col style=3D"width: 136.0px;">
+<col style=3D"width: 152.0px;">
+<col style=3D"width: 152.0px;">
+<col style=3D"width: 152.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th data-highlight-colour=3D"#ffffff" rowspan=3D"2" class=3D"confluenceTh">=
+<p style=3D"text-align: center;"></p><p style=3D"text-align: center;"></p><=
+h3 style=3D"text-align: center;" id=3D"RickRegister-LIKELIHOOD"><br>LIKELIH=
+OOD</h3></th>
+<th data-highlight-colour=3D"#ffffff" colspan=3D"4" class=3D"confluenceTh">=
+<h3 style=3D"text-align: center;" id=3D"RickRegister-SEVERITY">SEVERITY</h3=
+></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><strong>ACCEPTABLE</strong><br><em>Little to =
+no effect on event</em></p></td>
+<td class=3D"confluenceTd"><p><strong>TOLERABLE</strong><br><em>Effects are=
+ felt, but not critical to outcome</em></p></td>
+<td class=3D"confluenceTd"><p><strong>UNDESIRABLE</strong><br><em>Serious i=
+mpact to the course of action and outcome</em></p></td>
+<td class=3D"confluenceTd"><p><strong>INTOLERABLE</strong><br><em>Could res=
+ult in disaster</em></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"><strong>IMPROBA=
+BLE</strong><br><em>Risk is unlikely to occur</em></p></td>
+<td data-highlight-colour=3D"#e3fcef" class=3D"confluenceTd">
+<ul>
+<li><p>Not having a user-friendly appearance</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#fffae6" class=3D"confluenceTd">
+<ul>
+<li><p>&nbsp;Not having very complete features in the first release</p></li=
+>
+</ul></td>
+<td data-highlight-colour=3D"#fffae6" class=3D"confluenceTd">
+<ul>
+<li><p>The functional manager diverts resources from the project</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#fff0b3" class=3D"confluenceTd">
+<ul>
+<li><p>Inability to recruit skilled resource</p></li>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"><strong>POSSIBL=
+E</strong><br><em>Risk will likely occur</em></p></td>
+<td data-highlight-colour=3D"#e3fcef" class=3D"confluenceTd">
+<ul>
+<li><p>Difficult and complex use of the program by users</p></li>
+</ul><p style=3D"text-align: center;">&nbsp;</p></td>
+<td data-highlight-colour=3D"#fffae6" class=3D"confluenceTd">
+<ul>
+<li><p>Slow system performance</p></li>
+</ul><p style=3D"text-align: center;">&nbsp;</p></td>
+<td data-highlight-colour=3D"#fff0b3" class=3D"confluenceTd">
+<ul>
+<li><p>Additional capital expenditure may be required in addition to that a=
+pproved</p></li>
+<li><p>Response time is not acceptable for users/customers</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#ffbdad" class=3D"confluenceTd">
+<ul>
+<li><p>Technology solution is unable to deliver required results</p></li>
+</ul><p style=3D"text-align: center;">&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"><strong>PROBABL=
+E</strong><br><em>Risk will occur</em></p></td>
+<td data-highlight-colour=3D"#fffae6" class=3D"confluenceTd">
+<ul>
+<li><p>Variety of products and list of items</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#fff0b3" class=3D"confluenceTd">
+<ul>
+<li><p>Information not updated</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#fff0b3" class=3D"confluenceTd">
+<ul>
+<li><p>Not using resources properly</p></li>
+<li><p>A number of influential members of the project team leave</p></li>
+</ul></td>
+<td data-highlight-colour=3D"#ffbdad" class=3D"confluenceTd">
+<ul>
+<li><p>Not having proper infrastructure to store information</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_28_318453492.1701642667205
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/39c8e02e2dc28d43c55c89dadffe568f
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAPFBMVEVHcEzM1t3M1t3M1t3M1t3M
+1t2Zoqg9REgpLzPM1t3M1t3M1t3BaU/BaU/BaU/CcFjgtKf////M1dqZqrWLZiLOAAAADnRSTlMA
+IJ/v/zD///8QUN9Q360w504AAADiSURBVHgB7dhVgoUwEERRIIVrw/7XOoI7HRl9fRdwgKS+8J7y
+AwWowPcsCxX6VGjn+ApRnCRxBOVbQQGipC9CYAUpxAMUQ9k4KZCMAZ52WY6lBZrLM6aDVcunreNJ
+OVYth70uZ57Luun6t90BRVn11WBUDZXFiVNNcaG+o1SaQeUBqsyg6s9ADRGBERE1txDxIfprELPf
+BgnUdie1BlB3mjPoxz6Nn+zovtbw+o99I2T/abKjv78j2ZHsSHYkUOvqsLvT3EPmnyY7aohdcwMZ
+9Beg0swpD1BhBhWnP1m0KxfnHV+T0IbfZ3ihAAAAAElFTkSuQmCC
+------=_Part_28_318453492.1701642667205
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/bae0f9ac12a8fbbb68da32980c532b3b
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAulBMVEVHcEzR09T/3F3+2Fz91lr9
+1Fnv2IpzrFDWxXW0xNHR09TR09T+1FfR09T/rDPR09Q7iMNfkz//rDPR09Q7iMP/1lj/rDP/v0W+
+GTE9icS/IDdckTu+GTFckTs7iMP/rDOuwtDLlZ6XvFfIy1rR09T911v7zVX/3F3/wUXcpFFmIRP/
+sznwwFn/rDNckTu+GTHNhU+CrMvFzcw7iMPXVDWOUyfFX27Aak1HjsWjuZh3slWnvtDg01vRoZwU
+u/YmAAAAInRSTlMAROueu0UsPhEgrmVl2TuIzcvD7znPnX46orZgn4ho38+/CRLiAwAAAzVJREFU
+eNrtlGtT4jAUhgO9kLaUAoosuuIuJr2BXHW97v//W5u2SU7SAFXYjz4zzngy8Zlz3pyKPocXRL+v
+V4zrH+h0vCgk5M+K8/NUTcsnBDwnm7xSQ/6uFE6ZLmIS3hBw/WWNGxLOSuPL6VwQEJ0xW0CAc0RB
+GAWtViuIwjNHA1z/1LCBXnc8Hg7H1nnP37t6kDyevpC9O+4A0ykezLsB1o+f+2i9juYZPuzlqsHS
+uV0yBjeq5xTTzZIzwKgE5jIYN3iEqcr54Qg9HgU201kq3CLG8JhoyKcPo7qqyAeAhhpaCkjY0kUD
+TdSBhBryDgnxsTEZiORk80Mm5b9D6IEoMETV9TRJD4hEGxfMdOFKkf9WF3FPksRz1hf/MUNCPtFM
+4avqGSAuoklBnJaNUZqmc0MUEc1Ettrzc1GcACmvaBzPVVGLVCZcZU3Ia20h79gwyX5imRGIiC+r
+V/0TGRYJHaBoCUkRJ5LV9k35aPGIJxQvVMViwVuau/D+2/fN5p0QT9HCnlq0mizL82fwrPN8XbWU
+2iLs7WZX8LLxQaQsaTtJy8me8jwXGqhiljxv6dfLjrNhTbgiMAGu/6lZOdUzMY9gwmrukTifFU12
+Cpd80TECEs5znj+BSFQg2qlMqkUPEAMy4mRZsYhQJQKMGJeaqF8ueohUxkkDFpIioHy2AGlY2vqs
+GdpC2Rjt7QgX+3TYlD0z1qoHVXj1jJAfohrduijTBuP0VdG02HS/LnK12Rhq3UWcS20yBoaI4OEO
+4yLBRF0jDTMkkxECpqIf3WPOFi+oMqGcDPCm/X5/MkWHsasvnsWcLRhZxn4tj9roa7hcpAINNWCm
+RDNQZVQsEeB0LbvRPJLZMERWbcwNdkFc4rjO2LatgyLMTSptly9sLKHiOVCDyfCYa9b4CNiubZBc
+RVNjuegYNFGgcF63OKiBRGZA41hJ4ajF2dNcIeBQNc4Pjq1asFMWI3bZHjsFHUnVDOVdwfkbx/jQ
+27YVA4uZuPihZSROl8u9IuWm4ENcnKmiWYOou2cpZtJEa2emCMBd2xRJ7ksVvYcjU2S6QKQym0Hd
+IAIXiAyaRQBc/RZ9i75F/1n0D3aB/2Pdl6CpAAAAAElFTkSuQmCC
+------=_Part_28_318453492.1701642667205--

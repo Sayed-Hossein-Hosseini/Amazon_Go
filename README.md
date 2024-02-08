@@ -4,7 +4,7 @@
 <h2>Structure</h2>
 This project consists of five phases in the 
 <b><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation">Documentation</a></b>
-section, the first three phases have the 
+section, the first two phases have the 
 <b><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Confluence">Confluence</a></b> section as follows : <br><br>
 <ul><h3>Documentation</h3>
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation/Phase%201">Phase 1</a></h3></li>
@@ -39,4 +39,16 @@ section, the first three phases have the
     <b><a target = "_blanck" href = "https://www.dronahq.com/">DornaHQ</a></b> low-code platform that is web-based
   </p>
   <img src = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/blob/master/Image/Home%20Page%20.jpg">
+</ul>
+<br>
+
+<ul><h3>Confluence</h3>
+  <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Confluence/Brain%20Storming">Brain Storming</a></h3></li>
+  <p>In this section, we Brainstormed and wrote our activities and research to write the Business Case</p>
+  <img src = "">
+
+  <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Confluence/Rick%20Register">Rick Register</a></h3></li>
+  <p>In this section, we examined the risks in the final solution, and according to that, I completed the Project Charter</p>
+  <img src = "">
+
 </ul>

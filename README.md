@@ -29,6 +29,7 @@ This project consists of five phases as follows : <br><br>
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation/Phase%204">Phase 4</a></h3></li>
   <p>In this section, we have written the work breakdown structure, the work steps and how to implement the demo version in 
     <b><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Microsoft%20Project">Microsoft Project</a></b></p>
+    <img src = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/blob/master/Image/Microsoft%20Project.png" width = "80%" height = "80%">
 
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation/Phase%205">Phase 5</a></h3></li>
   <p></p>

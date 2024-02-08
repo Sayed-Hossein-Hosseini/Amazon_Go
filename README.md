@@ -45,10 +45,8 @@ section, the first two phases have the
 <ul><h3>Confluence</h3>
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Confluence/Brain%20Storming">Brain Storming</a></h3></li>
   <p>In this section, we Brainstormed and wrote our activities and research to write the Business Case</p>
-  <img src = "">
 
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Confluence/Rick%20Register">Rick Register</a></h3></li>
   <p>In this section, we examined the risks in the final solution, and according to that, I completed the Project Charter</p>
-  <img src = "">
 
 </ul>

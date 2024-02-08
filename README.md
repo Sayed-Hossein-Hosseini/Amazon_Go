@@ -50,3 +50,16 @@ section, the first two phases have the
   <p>In this section, we examined the risks in the final solution, and according to that, I completed the Project Charter</p>
 
 </ul>
+<br>
+
+<h2>Educational Research</h2>
+<p>Optionally and for the purpose of education, we will examine the following two topics : </p>
+<ul><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Use%20Case%20Point%20Traning">Use Case Point Traning</a></h3>
+</ul>
+
+<ul><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Box%20content-based%20platform%20training">
+  Box Content-Based Platform Training</a></h3>
+</ul>
+<br>
+
+<p><h3>Good Luck</h3></p>

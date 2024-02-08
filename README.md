@@ -2,8 +2,11 @@
 <p>We are looking to <b>increase productivity</b> and <b>reduce costs</b> in order management</p>
 
 <h2>Structure</h2>
-This project consists of five phases as follows : <br><br>
-<ul>
+This project consists of five phases in the 
+<b><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation">Documentation</a></b>
+section, the first three phases have the 
+<b><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Confluence">Confluence</a></b> section as follows : <br><br>
+<ul><h3>Documentation</h3>
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation/Phase%201">Phase 1</a></h3></li>
   <p>In this section, we reviewed the 
     <b>solutions</b> and wrote the 
@@ -29,8 +32,11 @@ This project consists of five phases as follows : <br><br>
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation/Phase%204">Phase 4</a></h3></li>
   <p>In this section, we have written the work breakdown structure, the work steps and how to implement the demo version in 
     <b><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Microsoft%20Project">Microsoft Project</a></b></p>
-    <img src = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/blob/master/Image/Microsoft%20Project.png" width = "80%" height = "80%">
+    <img src = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/blob/master/Image/Microsoft%20Project.png">
 
   <li><h3><a target = "_blanck" href = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/tree/master/Documentation/Phase%205">Phase 5</a></h3></li>
-  <p></p>
+  <p>In this demo section, I implemented my project on the 
+    <b><a target = "_blanck" href = "https://www.dronahq.com/">DornaHQ</a></b> low-code platform that is web-based
+  </p>
+  <img src = "https://github.com/Sayed-Hossein-Hosseini/Amazon_Go/blob/master/Image/Home%20Page%20.jpg">
 </ul>
